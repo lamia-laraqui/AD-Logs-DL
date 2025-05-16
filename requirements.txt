@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+regex
+image
+matplotlib
+torch
+torchvision
